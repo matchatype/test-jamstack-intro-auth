@@ -11,8 +11,13 @@
   "author": "Andrea Di Marco <andrea.dimarco@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@reach/dialog": "0.8.5",
+    "@reach/tabs": "0.8.5",
+    "@reach/visually-hidden": "0.8.2",
     "gatsby": "2.19.19",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "react-netlify-identity": "0.2.3",
+    "react-netlify-identity-widget": "0.2.7"
   }
 }
