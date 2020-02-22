@@ -5,7 +5,7 @@
   "main": "gatsby-config.js",
   "scripts": {
     "develop": "gatsby develop",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gatsby build"
   },
   "keywords": [],
   "author": "Andrea Di Marco <andrea.dimarco@gmail.com>",
