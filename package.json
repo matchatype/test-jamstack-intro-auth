@@ -1,0 +1,18 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrea Di Marco <andrea.dimarco@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "2.19.19",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
+}
